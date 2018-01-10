@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative './exchange'
+require './lib/exchange'
 
 describe Currency do
   it "exchange" do
